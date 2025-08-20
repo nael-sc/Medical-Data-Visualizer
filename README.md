@@ -2,6 +2,7 @@
 Medical Data Visualizer FreeCodeCamp Project
 
 Instructions
+
 Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
 
 By each number in the medical_data_visualizer.py file, add the code from the associated instruction number below.
